@@ -11,7 +11,7 @@ env/
 .ipynb_checkpoints/
 
 # Configuration files
-config.json
+# config.json
 
 # Log files
 *.log

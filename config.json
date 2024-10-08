@@ -1,0 +1,9 @@
+{
+    "websites": [
+        "https://www.your-target-api-endpoint.com"
+    ],
+    "publish": false,
+    "post_url": "https://your-blog-api-endpoint.com/posts",
+    "api_token": "your_api_token",
+    "target_language": "en"
+}
